@@ -68,6 +68,5 @@ O sistema é composto pelas seguintes classes:
 Aluno: Josevan Tavares Pereira ramos 
 Curso: Análise e Desenvolvimento de Sistemas – 2º Período  
 Disciplina: Programação Orientada a Objetos (POO)  
-Professor: Rafael Marinho dos Anjos
-Faculdade Alpha
+Professor: Rafael Marinho dos Anjos | Faculdade Alpha
 
